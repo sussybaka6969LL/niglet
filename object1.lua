@@ -1,5 +1,5 @@
 --skibid slicer
---hi
+--hi, i made this script, if you want to contact me my discord is Mboxfolk
 
 --Moonsec v3
 
